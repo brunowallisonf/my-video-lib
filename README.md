@@ -1,2 +1,2 @@
 # my-video-lib
-An lib to manipulate videos with ffmpeg
+A lib to manipulate videos with ffmpeg
